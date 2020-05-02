@@ -1,4 +1,4 @@
-message = "yo eric you got sum pot seeds"
+message = "yo eric you got sum seeds"
 print(message)
 name = "hi max"
 print(name.title())

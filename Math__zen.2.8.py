@@ -1,3 +1,4 @@
+#zen is code styling
 print(7+1)
 print(18-10)
 print(4*2)

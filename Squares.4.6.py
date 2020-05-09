@@ -6,7 +6,7 @@ for numero in range(1, 21, 3):
     print(numero)
 cubes = []
 for shit in range(1, 10):
-    cube = value ** 3
-    cubes.append(cube)
+    cube = shit ** 3
+    cubes.append(cube**3)#this line confuses me large numbers
     
 print(cubes)
